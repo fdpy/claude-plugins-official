@@ -1,0 +1,8 @@
+{
+  "name": "content-expert",
+  "description": "Content creation and review expert that helps write, improve, and optimize documentation, technical writing, blog posts, READMEs, and other content",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  }
+}
