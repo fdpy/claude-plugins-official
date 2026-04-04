@@ -684,6 +684,16 @@
         "url": "https://github.com/semgrep/mcp-marketplace.git"
       },
       "homepage": "https://github.com/semgrep/mcp-marketplace.git"
+    },
+    {
+      "name": "ljg-skill-paper",
+      "description": "Academic paper deep reader (论文深读器) that deconstructs scholarly work through an atomic pipeline: research gap analysis, core mechanism extraction with ASCII diagrams, Feynman-technique concept explanations, structural comparisons, expert advisor critique, and transferable insights. Accepts arXiv URLs, local PDFs, or paper titles.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/lijigang/ljg-skill-paper.git"
+      },
+      "homepage": "https://github.com/lijigang/ljg-skill-paper"
     }
   ]
 }
