@@ -684,6 +684,30 @@
         "url": "https://github.com/semgrep/mcp-marketplace.git"
       },
       "homepage": "https://github.com/semgrep/mcp-marketplace.git"
+    },
+    {
+      "name": "content-expert",
+      "description": "Content creation and review expert that helps write, improve, and optimize documentation, technical writing, blog posts, READMEs, and other written content",
+      "version": "1.0.0",
+      "author": {
+        "name": "Anthropic",
+        "email": "support@anthropic.com"
+      },
+      "source": "./plugins/content-expert",
+      "category": "productivity",
+      "strict": false
+    },
+    {
+      "name": "stock-analysis",
+      "description": "Stock market analysis expert for analyzing stocks, economic trends, company fundamentals, and investment insights. Triggers on discussions of stocks, markets, macroeconomics, or company analysis.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Anthropic",
+        "email": "support@anthropic.com"
+      },
+      "source": "./plugins/stock-analysis",
+      "category": "productivity",
+      "strict": false
     }
   ]
 }

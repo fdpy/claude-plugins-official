@@ -1,0 +1,8 @@
+{
+  "name": "stock-analysis",
+  "description": "Stock market analysis expert for analyzing stocks, economic trends, company fundamentals, and investment insights",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  }
+}
