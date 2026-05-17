@@ -1,0 +1,7 @@
+{
+  "name": "social-search-workflow",
+  "description": "以搜索指数为核心KPI的社交媒体内容投放工作流，覆盖小红书、抖音/微信视频号平台，包含选题、策划、创作、发布、优化、复盘六大节点。",
+  "author": "Anthropic",
+  "version": "1.0.0",
+  "category": "productivity"
+}

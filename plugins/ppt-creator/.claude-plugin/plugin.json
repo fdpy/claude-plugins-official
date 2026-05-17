@@ -1,0 +1,7 @@
+{
+  "name": "ppt-creator",
+  "description": "Create and optimize Marp-based presentations. Generate complete slide decks from a topic or refine existing Markdown slide content.",
+  "author": "Anthropic",
+  "version": "1.0.0",
+  "category": "productivity"
+}
